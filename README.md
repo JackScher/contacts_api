@@ -1,7 +1,7 @@
 # contacts_api
 
 requirements:
-1. installed python, pip;
+1. installed python3, pip;
 2. installed postgreql
 
 to create virtual enviroment input into terminal:
